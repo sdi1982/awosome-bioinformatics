@@ -876,7 +876,6 @@ for 2D and 3D image segmentation
 - [stringr](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html)
 - [Bioconductor Tutorial](http://master.bioconductor.org/help/course-materials/2003/MGED6/MGED6I.pdf)
 - [limma](https://www.bioconductor.org/packages/devel/bioc/vignettes/limma/inst/doc/usersguide.pdf)
-- [30分钟学会ggplot2](https://cos.name/wp-content/uploads/2012/05/3-xiaokai-ggplot2.pdf)
 - [R Graphics Cookbook](https://ase.tufts.edu/bugs/guide/assets/R%20Graphics%20Cookbook.pdf)
 - [Introduction to data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
 - [RSQLite](https://cran.r-project.org/web/packages/RSQLite/vignettes/RSQLite.html)
@@ -888,15 +887,12 @@ for 2D and 3D image segmentation
 - [The Linux Command Line](http://linuxcommand.org/)
 - [Advanced Bash-Scripting Guide](http://www.tldp.org/LDP/abs/abs-guide.pdf)
 - [Wicked Cool Shell Scripts](http://shop.oreilly.com/product/9781593276027.do)
-- [鸟哥的 Linux 私房菜](http://cn.linux.vbird.org/)
-- [菜鸟教程](http://www.runoob.com/)
 
 #### Python
 
 - [Learning Python, 5th Edition](http://shop.oreilly.com/product/0636920028154.do)
 - [Python Examples](https://github.com/geekcomputers/Python)
 - [Learning Python](https://github.com/MrAlex6204/Books/blob/master/Learning%20Python,%205th%20Edition.pdf)
-- [Python学习手册](https://www.gitbook.com/download/pdf/book/yulongjun/learning-python-in-chinese)
 
 #### C/C++
 
@@ -922,64 +918,22 @@ for 2D and 3D image segmentation
 - [K-Means](https://en.wikipedia.org/wiki/K-means_clustering)
 - [HMM](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 - [STAT115 - HMM PPT](https://github.com/Miachol/ftp/raw/master/files/ppt/STAT115_HMM.ppt)
-- [机器学习常用算法](https://en.wikipedia.org/wiki/Outline_of_machine_learning#Machine_learning_algorithms)
-- [机器学习资源列表](https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned)
 - [Review:Deep learning, genomics, and precision medicine](https://github.com/greenelab/deep-review)
 - [ML book list](http://www.hankcs.com/ml/machine-learning-entry-list.html):
-
-```
-│  李航.统计学习方法.pdf
-│  机器学习及其应用.pdf
-│  All of Statistics - A Concise Course in Statistical Inference - Larry Wasserman - Springer.pdf
-│  Machine Learning - Tom Mitchell.pdf
-│  PRML.pdf
-│  PRML读书会合集打印版.pdf
-│  Programming Collective Intelligence.pdf
-│  [奥莱理] Machine Learning for Hackers.pdf
-│  [机器学习]Tom.Mitchell.pdf
-│  《大数据：互联网大规模数据挖掘与分布式处理》迷你书.pdf
-│  推荐系统实践.pdf
-│  数据挖掘-实用机器学习技术（中文第二版）.pdf
-│  数据挖掘_概念与技术.pdf
-│  机器学习-Mitchell-中文-清晰版.pdf
-│  机器学习导论.pdf
-│  模式分类第二版中文版Duda.pdf（全）.pdf
-│  深入搜索引擎--海量信息的压缩、索引和查询.pdf
-│  矩阵分析.美国 Roger.A.Horn.扫描版.pdf
-│  统计学习基础 数据挖掘、推理与预测.pdf
-│  
-├─机器学习实战
-│      machinelearninginaction.zip
-│      机器学习实战 单页.pdf
-│      机器学习实战.pdf
-│      
-└─论文文集
-    └─LDA
-            LDA-wangyi.pdf
-            LDA数学八卦.pdf
-            text-est.pdf
-```
 
 #### Git
 
 - [Git tutorials](https://www.atlassian.com/git/tutorials)
-- [Git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 - [Github Guides](https://guides.github.com/activities/hello-world/)
 
 #### Cloud
 
 - [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing)
-- [Docker入门教程](http://dockone.io/article/111)
 
 #### Bioinfomatics
 
-- [华大基因生物信息学培训教材](http://pan.baidu.com/s/1nuO5lZN)
-- [生物信息学入门](http://pan.baidu.com/s/1jIb2Di2)
-- [《生物信息学入门最佳实践》](http://www.biotrainee.com/jmzeng/book/basic/)
 - [The Biostar Handbook: A Beginner's Guide to Bioinformatics](https://www.biostarhandbook.com/)
 - [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do)
-- [生信菜鸟团博客](http://www.bio-info-trainee.com/)
-- [生信技能树论坛](https://vip.biotrainee.com)
 
 ## Skills
 
